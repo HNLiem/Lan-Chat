@@ -1,0 +1,25 @@
+C:\Users\Nam JaVer\Desktop\test\Login\Server\bin\Debug\Server.exe.config
+C:\Users\Nam JaVer\Desktop\test\Login\Server\bin\Debug\Server.exe
+C:\Users\Nam JaVer\Desktop\test\Login\Server\bin\Debug\Server.pdb
+C:\Users\Nam JaVer\Desktop\test\Login\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Nam JaVer\Desktop\test\Login\Server\obj\Debug\Server.Form1.resources
+C:\Users\Nam JaVer\Desktop\test\Login\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Nam JaVer\Desktop\test\Login\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Nam JaVer\Desktop\test\Login\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Nam JaVer\Desktop\test\Login\Server\obj\Debug\Server.exe
+C:\Users\Nam JaVer\Desktop\test\Login\Server\obj\Debug\Server.pdb
+C:\Users\ADMIN\Desktop\test\Login\Server\bin\Debug\Server.exe.config
+C:\Users\ADMIN\Desktop\test\Login\Server\bin\Debug\Server.exe
+C:\Users\ADMIN\Desktop\test\Login\Server\bin\Debug\Server.pdb
+C:\Users\ADMIN\Desktop\test\Login\Server\bin\Debug\Login.exe
+C:\Users\ADMIN\Desktop\test\Login\Server\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ADMIN\Desktop\test\Login\Server\bin\Debug\Login.pdb
+C:\Users\ADMIN\Desktop\test\Login\Server\bin\Debug\Login.exe.config
+C:\Users\ADMIN\Desktop\test\Login\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\test\Login\Server\obj\Debug\Server.Form1.resources
+C:\Users\ADMIN\Desktop\test\Login\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\test\Login\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\test\Login\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\test\Login\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\test\Login\Server\obj\Debug\Server.exe
+C:\Users\ADMIN\Desktop\test\Login\Server\obj\Debug\Server.pdb

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <TaiKhoan>
+    <Ten>a</Ten>
+    <Matkhau>1</Matkhau>
+    <stt>1</stt>
+  </TaiKhoan>
+  <TaiKhoan>
+    <Ten>b</Ten>
+    <Matkhau>2</Matkhau>
+    <stt>2</stt>
+  </TaiKhoan>
+  <TaiKhoan>
+    <Ten>c</Ten>
+    <Matkhau>3</Matkhau>
+    <stt>3</stt>
+  </TaiKhoan>
+  <TaiKhoan>
+    <Ten>d</Ten>
+    <Matkhau>1</Matkhau>
+    <stt>4</stt>
+  </TaiKhoan>
+  <TaiKhoan>
+    <Ten>e</Ten>
+    <Matkhau>1</Matkhau>
+    <stt>5</stt>
+  </TaiKhoan>
+  <TaiKhoan>
+    <Ten>f</Ten>
+    <Matkhau>6</Matkhau>
+    <stt>6</stt>
+  </TaiKhoan>
+  <TaiKhoan>
+    <Ten>s</Ten>
+    <Matkhau>2</Matkhau>
+    <stt>7</stt>
+  </TaiKhoan>
+</ds>

@@ -1,0 +1,34 @@
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\bin\Debug\Diem.exe.config
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\bin\Debug\Diem.exe
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\bin\Debug\Diem.pdb
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\bin\Debug\Bunifu.Core.dll
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\obj\Debug\Diem.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\obj\Debug\Diem.LoginForm.resources
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\obj\Debug\Diem.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\obj\Debug\Diem.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\obj\Debug\Diem.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\obj\Debug\Diem.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\obj\Debug\Diem.exe
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\obj\Debug\Diem.pdb
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\obj\Debug\Diem.FriendTab.resources
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\obj\Debug\Diem.MenuForm.resources
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\obj\Debug\Diem.FormChat.resources
+C:\Users\ADMIN\Desktop\10DiemTrucQUan\Diem\Diem\obj\Debug\Diem.LoadingAnimation.resources
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Debug\Diem.FormChat.resources
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Debug\Diem.FriendTab.resources
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Debug\Diem.LoadingAnimation.resources
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Debug\Diem.LoginForm.resources
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Debug\Diem.MenuForm.resources
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Debug\Diem.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Debug\Diem.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Debug\Diem.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Debug\Diem.exe
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Debug\Diem.pdb
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\bin\Debug\Diem.exe.config
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\bin\Debug\Diem.exe
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\bin\Debug\Diem.pdb
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\bin\Debug\Bunifu.Core.dll
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Debug\Diem.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll

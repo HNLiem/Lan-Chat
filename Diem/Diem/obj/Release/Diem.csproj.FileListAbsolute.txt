@@ -1,0 +1,17 @@
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\bin\Release\Diem.exe.config
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\bin\Release\Diem.exe
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\bin\Release\Diem.pdb
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\bin\Release\Bunifu.Core.dll
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Release\Diem.FormChat.resources
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Release\Diem.FriendTab.resources
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Release\Diem.LoadingAnimation.resources
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Release\Diem.LoginForm.resources
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Release\Diem.MenuForm.resources
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Release\Diem.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Release\Diem.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Release\Diem.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Release\Diem.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Release\Diem.exe
+C:\Users\ADMIN\Desktop\LC Lập trình trực quan\Diem\Diem\obj\Release\Diem.pdb
